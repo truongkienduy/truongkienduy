@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Truong Kien Duy!
 
-<!--
-**truongkienduy/truongkienduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year student majoring in Management Information Systems  
+📊 Passionate about data analysis, storytelling, and building insightful dashboards  
+🛠️ Skills: Python, SQL, Power BI, Excel, Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Credit Card Fraud Detection](link)
+- [Customer Segmentation & Basket Analysis](link)
+- [Social Media ROI Dashboard (Internship)](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: [linkedin.com/in/truongkienduy](https://linkedin.com/in/truongkienduy)
+- Email: truongkienduy@outlook.com
